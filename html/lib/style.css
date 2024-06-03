@@ -1,0 +1,40 @@
+*,*:before,*:after{padding: 0;
+    margin: 0;border: 0;
+    box-sizing: border-box;}
+body{background-color: #6A68A5; font-family: sans-serif;}
+.u0, .u1, .u2, .u3, .u4 {width: 316px; background-color:rgba(236, 244, 145, 0.18) ;}
+.u5, .u6, .u7, .u8, .u9 {width: 386px; background-color: rgba(236, 244, 145, 0.18);}
+.u0{height: 255px; margin: 0px 0px 10px 0px;}
+.ava{height: 217px; width: 295px; margin: 10px 10px 10px 10px;}
+.u1{height: 235px; margin: 10px 10px 10px 0px; font-size: 20px; padding: 0px 0px 0px 5px;}
+.u2{height: 116px; margin: 5px 5px 5px 0px; font-size: 20px; padding:0px 0px 0px 5px ;}
+.z1{font-size: 20px; margin: 10px}
+.book{width: 40px; height: 40px; position: relative; left: 80px; top: 15px }
+.level{height: 10px; width: 100px; background-color: greenyellow;position: relative; left: 120px; bottom: 15px }
+.lowlevel{height: 10px; width: 40px; background-color: greenyellow;position: relative; left: 120px; bottom: 17px }
+.u3{height:167px; margin: 0px 0px 10px 0px; font-size: 20px;  padding: 0px 10px 10px 0px;}
+.z2{font-size:19px; margin: 0px 0px 10px 0px;}
+.napr{ height: 40px; width: 40px;position: relative; left: 265px;bottom: 115px;}
+.u4{height: 90px; font-size:20px; padding:5px 0px 0px 10px;}
+.z3{font-size: 10px;}
+.dream{position: relative; height: 40px; width: 40px; left:250px; bottom: 75px}
+.u5{height: 283px; position: relative; left: 330px; bottom: 902px; font-size:22px ; padding: 10px 0px 0px 10px; }
+.z4{margin: 0px 10px 20px; font-size: 30px;}
+.u6{height: 186px;position: relative; left: 330px; bottom:898px; font-size: 26px; padding: 10px 0px 0px 10px;}
+.ic3,.obr,.meh, .comp, .ball{height: 40px; width:40px;}
+.obr{position:relative; height: 40px; width: 40px; left:320px; bottom: 175px}
+.king{position: relative; left: 315px; bottom:255px; height: 40px; width: 40px;}
+.u7{height: 251px; position: relative; left: 330px; bottom:893px; padding: 10px 0px 0px 20px; font-size: 20px;}
+.meh{ position: relative; left: 315px; bottom:220px }
+.z0{padding: 10px;}
+
+.u8{height: 60px; position: relative; left: 330px; bottom: 890px;font-size: 18px;}
+.py{height: 25px; width: 25px;}
+.comp{ position: relative; left: 335px; bottom:50px}
+
+.u9{height: 105px; position: relative; left: 330px; bottom: 885px; padding: 10px; font-size: 20px;}
+.z9{padding: 10px;}
+.ball{ position: relative;left: 325px; bottom:80px}
+.ick{height: 40px; width: 40px; margin: 0px 0px 0px 5px;position: relative; top:15px}
+.ic1,.targ, .ic2 {height: 20px; width: 20px; margin: 0px 5px 0px 0px;}
+
